@@ -20,4 +20,4 @@ Runs `terraform plan` and comments back with the output.
 
 ### Apply Action
 Runs `terraform apply` and comments back with the output.
-<img src="./assets/apply.png" alt="Terraform Apply Action" width="80%" />
+<img src="./assets/apply.png" alt="Terraform Apply Action" width="80%" /># Terrafrom
